@@ -1,0 +1,10 @@
+{
+    "api": "https://na1.api.riotgames.com",
+    "key": "RGAPI-84e229c9-f24a-478d-9ee5-cb55266e15d3",
+    "getSumID": "/lol/summoner/v4/summoners/by-name/",
+    "getMatchList": "/lol/match/v4/matchlists/by-account/",
+    "championData": "http://ddragon.leagueoflegends.com/cdn/9.24.2/data/en_US/champion.json",
+    "championImg": "http://ddragon.leagueoflegends.com/cdn/9.24.2/img/champion/",
+    "pokemonImg": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/",
+    "pokemonData": "https://pokeapi.co/api/v2/pokemon/"
+}
