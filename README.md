@@ -1,6 +1,6 @@
 # Poke League
 
-Server code written in node to recommend you a sun/moon pokemon starter based on your last 20 champions played in League of Legends
+Server code written in javascript to recommend you a sun/moon pokemon starter based on your last 20 champions played in League of Legends
 
 ## Getting Started
 
